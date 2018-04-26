@@ -1,0 +1,385 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"relative",
+				"relative_angle_move"
+			],
+			[
+				"rot",
+				"rot_zyz"
+			],
+			[
+				"arr",
+				"array\tfunction"
+			],
+			[
+				"pri",
+				"printpos"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Aula2/main.cpp",
+			"settings":
+			{
+				"buffer_size": 425,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "guilherme@guilherme:~/projects/Aula2$ cd build/      \nguilherme@guilherme:~/projects/Aula2/build$ ls       \naula2           CMakeFiles           Makefile        \nCMakeCache.txt  cmake_install.cmake                  \nguilherme@guilherme:~/projects/Aula2/build$ ./aula2  \nHello, world!                                        \ntamanho de double: 8                                 \ntamanho de int: 4                                    \ntamanho de float: 4                                  \ntamanho de char: 1                                   \nguilherme@guilherme:~/projects/Aula2/build$          \n                                                     \n                                                     \n                                                     \n                                                     \n                                                     \n                                                     \n                                                     \n                                                     \n                                                     \n                                                     \n                                                     \n                                                     \n                                                     \n                                                     \n                                                     \n                                                     \n                                                     \n                                                     \n                                                     \n                                                     \n                                                     \n                                                     \n                                                     \n                                                     \n                                                     \n                                                     \n                                                     \n                                                     \n                                                     \n                                                     \n                                                     \n                                                     \n                                                     \n                                                     \n                                                     \n                                                     \n                                                     \n                                                     \n",
+			"settings":
+			{
+				"buffer_size": 2646,
+				"line_ending": "Unix",
+				"name": "Terminal (bash)",
+				"read_only": true,
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "termina",
+		"selected_items":
+		[
+			[
+				"termina",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"proje",
+				"Project: Save As"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pyth",
+				"Build With: Python"
+			],
+			[
+				"ter",
+				"Terminal: Open"
+			],
+			[
+				"git",
+				"Git: Init"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 428.0
+	},
+	"console":
+	{
+		"height": 108.0,
+		"history":
+		[
+			"exit()",
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/guilherme/projects/Aula2/CMakeLists.txt",
+		"/home/guilherme/drive/research/tcc/calibration/models.py",
+		"/home/guilherme/drive/research/tcc/calibration/calibration.sublime-project",
+		"/home/guilherme/drive/research/tcc/calibration/receive.xml",
+		"/home/guilherme/drive/research/tcc/calibration/robot_kuka.py",
+		"/home/guilherme/drive/research/tcc/calibration/receive_mod.xml",
+		"/home/guilherme/.config/sublime-text-3/Packages/Jedi - Python autocompletion/sublime_jedi.sublime-settings",
+		"/usr/lib/python2.7/logging/__init__.py",
+		"/home/guilherme/.config/sublime-text-3/Packages/User/sublime_jedi.sublime-settings",
+		"/home/guilherme/drive/research/tcc/calibration/impedance_control.py"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Aula2/main.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 425,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								379,
+								379
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2646,
+						"regions":
+						{
+							"2,0":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										108,
+										113
+									]
+								],
+								"scope": "terminalview.black_green"
+							},
+							"2,16":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										124,
+										134
+									]
+								],
+								"scope": "terminalview.black_blue"
+							}
+						},
+						"selection":
+						[
+							[
+								584,
+								584
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"auto_complete_commit_on_tab": false,
+							"caret_style": "blink",
+							"color_scheme": "Packages/TerminalView/TerminalView.hidden-tmTheme",
+							"default_dir": "/home/guilherme/projects/Aula2",
+							"draw_centered": false,
+							"draw_indent_guides": false,
+							"draw_white_space": "none",
+							"gutter": false,
+							"highlight_line": false,
+							"scroll_past_end": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"terminal_view": true,
+							"terminal_view_activate_args":
+							{
+								"cmd": "/bin/bash -l",
+								"cwd": "/home/guilherme/projects/Aula2",
+								"keep_open": false,
+								"syntax": null,
+								"title": "Terminal (bash)"
+							},
+							"terminal_view_last_cursor_pos":
+							[
+								10,
+								44
+							],
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.58226691042,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 97.0
+	},
+	"output.exec":
+	{
+		"height": 152.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "aulacpp.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
