@@ -1,0 +1,7 @@
+/home/guilherme/projects/Aula3/build/CMakeFiles/install.dir
+/home/guilherme/projects/Aula3/build/CMakeFiles/list_install_components.dir
+/home/guilherme/projects/Aula3/build/CMakeFiles/rebuild_cache.dir
+/home/guilherme/projects/Aula3/build/CMakeFiles/aula3.dir
+/home/guilherme/projects/Aula3/build/CMakeFiles/install/local.dir
+/home/guilherme/projects/Aula3/build/CMakeFiles/install/strip.dir
+/home/guilherme/projects/Aula3/build/CMakeFiles/edit_cache.dir

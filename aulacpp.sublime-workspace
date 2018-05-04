@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"matri",
+				"matriz1"
+			],
+			[
+				"arra",
+				"array_a"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
 				"relative",
 				"relative_angle_move"
 			],
@@ -24,19 +36,19 @@
 	"buffers":
 	[
 		{
-			"file": "Aula2/main.cpp",
+			"file": "Aula3/main.cpp",
 			"settings":
 			{
-				"buffer_size": 425,
+				"buffer_size": 998,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"contents": "guilherme@guilherme:~/projects/Aula2$ cd build/      \nguilherme@guilherme:~/projects/Aula2/build$ ls       \naula2           CMakeFiles           Makefile        \nCMakeCache.txt  cmake_install.cmake                  \nguilherme@guilherme:~/projects/Aula2/build$ ./aula2  \nHello, world!                                        \ntamanho de double: 8                                 \ntamanho de int: 4                                    \ntamanho de float: 4                                  \ntamanho de char: 1                                   \nguilherme@guilherme:~/projects/Aula2/build$          \n                                                     \n                                                     \n                                                     \n                                                     \n                                                     \n                                                     \n                                                     \n                                                     \n                                                     \n                                                     \n                                                     \n                                                     \n                                                     \n                                                     \n                                                     \n                                                     \n                                                     \n                                                     \n                                                     \n                                                     \n                                                     \n                                                     \n                                                     \n                                                     \n                                                     \n                                                     \n                                                     \n                                                     \n                                                     \n                                                     \n                                                     \n                                                     \n                                                     \n                                                     \n                                                     \n                                                     \n                                                     \n                                                     \n",
+			"contents": "guilherme@guilherme:~/projects$                    \n                                                   \n                                                   \n                                                   \n                                                   \n                                                   \n                                                   \n                                                   \n                                                   \n                                                   \n                                                   \n                                                   \n                                                   \n                                                   \n                                                   \n                                                   \n                                                   \n                                                   \n                                                   \n                                                   \n                                                   \n                                                   \n                                                   \n                                                   \n                                                   \n                                                   \n                                                   \n                                                   \n                                                   \n                                                   \n                                                   \n                                                   \n                                                   \n                                                   \n                                                   \n                                                   \n                                                   \n                                                   \n                                                   \n                                                   \n                                                   \n                                                   \n                                                   \n                                                   \n                                                   \n                                                   \n                                                   \n                                                   \n                                                   \n",
 			"settings":
 			{
-				"buffer_size": 2646,
+				"buffer_size": 2548,
 				"line_ending": "Unix",
 				"name": "Terminal (bash)",
 				"read_only": true,
@@ -58,6 +70,22 @@
 			[
 				"termina",
 				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"termin",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"git",
+				"Git: Push"
+			],
+			[
+				"git ",
+				"Git: Push"
 			],
 			[
 				"install",
@@ -84,10 +112,6 @@
 				"Terminal: Open"
 			],
 			[
-				"git",
-				"Git: Init"
-			],
-			[
 				"Package Control: insta",
 				"Package Control: Install Package"
 			],
@@ -96,7 +120,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 428.0
+		"width": 357.0
 	},
 	"console":
 	{
@@ -116,8 +140,20 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/home/guilherme/projects",
+		"/home/guilherme/projects/Aula3"
+	],
 	"file_history":
 	[
+		"/home/guilherme/projects/Aula2/main.cpp",
+		"/home/guilherme/projects/aulacpp.sublime-project",
+		"/home/guilherme/projects/Aula3/run.sh",
+		"/home/guilherme/projects/Aula3/CMakeLists.txt",
+		"/home/guilherme/projects/newProject.sh",
+		"/usr/include/stdlib.h",
+		"/home/guilherme/projects/Aula2/run.sh",
 		"/home/guilherme/projects/Aula2/CMakeLists.txt",
 		"/home/guilherme/drive/research/tcc/calibration/models.py",
 		"/home/guilherme/drive/research/tcc/calibration/calibration.sublime-project",
@@ -145,6 +181,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"b_pt",
+			"b_ptr"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -152,6 +190,8 @@
 		"regex": false,
 		"replace_history":
 		[
+			"b_ptr",
+			"b_pt"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -167,29 +207,32 @@
 			[
 				{
 					"buffer": 0,
-					"file": "Aula2/main.cpp",
+					"file": "Aula3/main.cpp",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 425,
+						"buffer_size": 998,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								379,
-								379
+								324,
+								324
 							]
 						],
 						"settings":
 						{
+							"SL.82.region_keys":
+							[
+							],
 							"syntax": "Packages/C++/C++.sublime-syntax",
 							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 168.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -206,39 +249,63 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2646,
+						"buffer_size": 2548,
 						"regions":
 						{
-							"2,0":
+							"14,0":
 							{
 								"flags": 272,
 								"regions":
 								[
 									[
-										108,
-										113
+										0,
+										0
+									]
+								],
+								"scope": "terminalview.black_magenta"
+							},
+							"15,7":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										0,
+										0
 									]
 								],
 								"scope": "terminalview.black_green"
 							},
-							"2,16":
+							"16,0":
 							{
 								"flags": 272,
 								"regions":
 								[
 									[
-										124,
-										134
+										0,
+										0
 									]
 								],
-								"scope": "terminalview.black_blue"
+								"scope": "terminalview.black_green"
+							},
+							"17,7":
+							{
+								"flags": 272,
+								"regions":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"scope": "terminalview.black_green"
 							}
 						},
 						"selection":
 						[
 							[
-								584,
-								584
+								32,
+								32
 							]
 						],
 						"settings":
@@ -247,7 +314,7 @@
 							"auto_complete_commit_on_tab": false,
 							"caret_style": "blink",
 							"color_scheme": "Packages/TerminalView/TerminalView.hidden-tmTheme",
-							"default_dir": "/home/guilherme/projects/Aula2",
+							"default_dir": "/home/guilherme/projects/Aula3",
 							"draw_centered": false,
 							"draw_indent_guides": false,
 							"draw_white_space": "none",
@@ -259,15 +326,15 @@
 							"terminal_view_activate_args":
 							{
 								"cmd": "/bin/bash -l",
-								"cwd": "/home/guilherme/projects/Aula2",
+								"cwd": "/home/guilherme/projects",
 								"keep_open": false,
 								"syntax": null,
 								"title": "Terminal (bash)"
 							},
 							"terminal_view_last_cursor_pos":
 							[
-								10,
-								44
+								0,
+								32
 							],
 							"word_wrap": false
 						},
@@ -309,7 +376,7 @@
 		"cols":
 		[
 			0.0,
-			0.58226691042,
+			0.595529509889,
 			1.0
 		],
 		"rows":
@@ -334,6 +401,10 @@
 	"output.find_results":
 	{
 		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 54.0
 	},
 	"pinned_build_system": "",
 	"project": "aulacpp.sublime-project",
